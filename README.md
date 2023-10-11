@@ -40,7 +40,7 @@ Install [Docker]
 2. Installing ZTNET Container:
    **Change POSTGRES_PASSWORD for security
    ```cmd
-   cd ztnet
+   cd Cabal_Origin/ztnet
    docker-compose up -d
    
 3. Access ZTNET Controller
