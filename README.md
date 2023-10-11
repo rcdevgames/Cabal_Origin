@@ -9,8 +9,8 @@
 - [Docker](#Docker)
 - [Zerotier-Installation](#Zerotier-Installation)
 - [Cabal-Server-Installation](#Cabal-Server-Installation)
-- [Contributing](#contributing)
-- [License](#license)
+- [Episode2](#Episode2)
+- [Episode8](#Episode8)
 
 ## Docker
 
