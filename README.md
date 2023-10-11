@@ -20,7 +20,7 @@ Install [Docker](https://www.docker.com/get-started)
 
 1. Clone the repository:
    ```cmd
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/chaaanito/Cabal_Origin.git
    
 2. Installing ZTNET Container:
    **Change POSTGRES_PASSWORD for security
