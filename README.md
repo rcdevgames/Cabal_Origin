@@ -27,6 +27,9 @@ Install [Docker]
 ```cmd
    service docker status
 ```
+```cmd
+   apk add docker-compose
+```
 
 ## Zerotier-Installation
 
