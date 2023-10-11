@@ -61,7 +61,7 @@ Install [Docker](https://www.docker.com/get-started)
 ## Cabal-Server-Installation
 ## Episode2:
 ```cmd
-   cd cabal_server
+   cd cabal_server_ep2
    ```
 ### Environment
 
