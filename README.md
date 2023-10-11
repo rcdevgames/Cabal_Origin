@@ -22,7 +22,7 @@ Install [Docker]
    rc-update add docker boot
 ```
 ```cmd
-   run service docker start
+   service docker start
 ```
 ```cmd
    service docker status
