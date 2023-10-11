@@ -4,15 +4,7 @@
 
 > Cabal Server with Self-Hosted Zerotier Controller
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
+## Zerotier-Installation
 
 1. Clone the repository:
 
@@ -53,5 +45,13 @@
    ```
    zerotier-cli join (yourNetworkId)
 
-## Usage
+## Cabal-Server-Installation
+1. git clone Cabal Server Containers
+   
+   ```
+   Episode2
+   git clone https://github.com/artem-alekseev/cabal_server_ep2.git
+   Episode8
+   git clone https://github.com/artem-alekseev/cabal_server.git
+   
 ## Configuration
