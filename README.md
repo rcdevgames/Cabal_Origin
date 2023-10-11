@@ -52,10 +52,10 @@ Install [Docker]
    ```cmd
    wget https://dl-cdn.alpinelinux.org/alpine/v3.17/community/x86_64/zerotier-one-openrc-1.10.2-r0.apk
    wget https://dl-cdn.alpinelinux.org/alpine/v3.17/community/x86_64/zerotier-one-1.10.2-r0.apk
-   sudo apk add zerotier-one-1.10.2-r0.apk 
-   sudo apk add zerotier-one-openrc-1.10.2-r0.apk 
-   sudo rc-update add zerotier-one
-   sudo service zerotier-one start
+   apk add zerotier-one-1.10.2-r0.apk 
+   apk add zerotier-one-openrc-1.10.2-r0.apk 
+   rc-update add zerotier-one
+   service zerotier-one start
 
 5. Change Local ZeroTier Client Port
    ```cmd
