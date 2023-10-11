@@ -73,6 +73,7 @@ Install [Docker]
    ```
    zerotier-cli join (yourNetworkId)
    ```
+6. REBOOT YOUR SERVER
 ## Cabal-Server-Installation
 ## Episode2:
 ```cmd
