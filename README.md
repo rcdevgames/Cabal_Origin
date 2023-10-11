@@ -18,7 +18,11 @@
 
    ```bash
    git clone https://github.com/username/repo.git
+2. Installing ZTNET Container:
 
+   ```bash
+   cd ztnet
+   docker-compose up -d
 
 ## Usage
 ## Configuration
