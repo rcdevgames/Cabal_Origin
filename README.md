@@ -16,13 +16,13 @@
 
 Install [Docker]
 ```cmd
-   apk add --update docker openrc.
+   apk add --update docker openrc
 ```
 ```cmd
-   rc-update add docker boot.
+   rc-update add docker boot
 ```
 ```cmd
-   run service docker start.
+   run service docker start
 ```
 ```cmd
    service docker status
