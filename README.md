@@ -61,6 +61,7 @@ Install [Docker](https://www.docker.com/get-started)
 ## Cabal-Server-Installation
 ## Episode2:
 ```cmd
+   git clone https://github.com/artem-alekseev/cabal_server_ep2.git
    cd cabal_server_ep2
    ```
 ### Environment
@@ -156,6 +157,7 @@ docker-compose exec site php artisan set:gm admin
 ##########################################################################
 ## Episode8: 
    ```cmd
+   git clone https://github.com/artem-alekseev/cabal_server.git
    cd cabal_server
    ```
 ### Environment
