@@ -19,7 +19,7 @@
    ```bash
    git clone https://github.com/username/repo.git
 2. Installing ZTNET Container:
-
+   Change POSTGRES_PASSWORD for security
    ```bash
    cd ztnet
    docker-compose up -d
