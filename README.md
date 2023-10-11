@@ -83,7 +83,10 @@ Install [Docker]
 ### Environment
 
 Copy .env.example to .env and configurate .env
-
+```
+cp .env.example .env
+nano .env
+```
 ```
 DB_PASSWORD=StronG_db_passw0rd // Use a strong password for mssql with special symbols, numbers, and uppercase symbols
 DB_PORT=1433 // Database port
