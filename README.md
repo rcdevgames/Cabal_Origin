@@ -14,7 +14,19 @@
 
 ## Docker
 
-Install [Docker](https://www.docker.com/get-started)
+Install [Docker]
+```cmd
+   apk add --update docker openrc.
+```
+```cmd
+   rc-update add docker boot.
+```
+```cmd
+   run service docker start.
+```
+```cmd
+   service docker status
+```
 
 ## Zerotier-Installation
 
