@@ -15,6 +15,8 @@
 ## Docker
 
 Install [Docker]
+Make sure your OS is updated && upgraded. 
+Uncomment your Community Repository to access Docker.
 ```cmd
    apk add --update docker openrc
 ```
