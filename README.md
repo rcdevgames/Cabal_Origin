@@ -32,7 +32,7 @@ Install [Docker]
 ```
 
 ## Zerotier-Installation
-
+Installing ZeroTier Self-Hosted Controller w/ UI
 1. Clone the repository:
    ```cmd
    git clone https://github.com/chaaanito/Cabal_Origin.git
