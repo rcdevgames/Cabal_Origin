@@ -70,11 +70,12 @@ Installing ZeroTier Self-Hosted Controller w/ UI
      }
    }
    ```
-5. Joining ZeroTier Network
+6. REBOOT YOUR SERVER
+7. Joining ZeroTier Network
    ```
    zerotier-cli join (yourNetworkId)
    ```
-6. REBOOT YOUR SERVER
+
 ## Cabal-Server-Installation
 ## Episode2:
 ```cmd
