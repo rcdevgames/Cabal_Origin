@@ -60,7 +60,7 @@ Install [Docker]
    ```cmd
    nano /var/lib/zerotier-one/local.conf
    ```
-   COPY & PASTE in PuTTy (We need to Change 9993->994 since ZT Controller uses it already)
+   COPY & PASTE in PuTTy (We need to Change 9993->9994 since ZT Controller uses it already)
    ```cmd
    {
      "settings": {
