@@ -38,7 +38,6 @@ Install [Docker]
    git clone https://github.com/chaaanito/Cabal_Origin.git
    
 2. Installing ZTNET Container:
-   **Change POSTGRES_PASSWORD for security
    ```cmd
    cd Cabal_Origin/ztnet
    docker-compose up -d
@@ -61,7 +60,7 @@ Install [Docker]
    ```cmd
    nano /var/lib/zerotier-one/local.conf
    ```
-   COPY & PASTE in PuTTy
+   COPY & PASTE in PuTTy (We need to Change 9993->994 since ZT Controller uses it already)
    ```cmd
    {
      "settings": {
