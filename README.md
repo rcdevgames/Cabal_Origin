@@ -56,7 +56,6 @@ Installing ZeroTier Self-Hosted Controller w/ UI
    apk add zerotier-one-1.10.2-r0.apk 
    apk add zerotier-one-openrc-1.10.2-r0.apk 
    rc-update add zerotier-one boot
-   service zerotier-one start
 
 5. Change Local ZeroTier Client Port
    ```cmd
@@ -70,7 +69,10 @@ Installing ZeroTier Self-Hosted Controller w/ UI
      }
    }
    ```
-6. REBOOT YOUR SERVER
+6. Start Zerotier
+   ```cmd
+   service zerotier-one start
+   ```
 7. Joining ZeroTier Network
    ```
    zerotier-cli join (yourNetworkId)
